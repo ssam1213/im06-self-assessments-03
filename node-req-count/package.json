@@ -1,0 +1,12 @@
+{
+  "name": "node-req-count",
+  "version": "1.0.0",
+  "description": "Finish implementing the provided HTTP request handler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "request": "^2.72.0"
+  }
+}
